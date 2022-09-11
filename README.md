@@ -78,9 +78,11 @@ both at the same time wasn’t an option. Feeling hopeless, I decided to go back
 to brainstorming.
 
 ![Surely this’ll work....](https://i.imgur.com/C2GkKPG.png)
+
 Surely this’ll work....
 
 ![Nope. Nevermind. Not happening.](https://i.imgur.com/EQhbRum.png)
+
 Nope. Nevermind. Not happening.
 
 At this point, I already invested so much time into this idea, so I really wanted to
