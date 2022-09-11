@@ -2,6 +2,7 @@
 
 ### YouTube Video Link : https://www.youtube.com/watch?v=Uq2lYNdrcdU
 
+
 ## Introduction
 As we are currently still fighting the COVID-19 pandemic, I
 thought it would be a no-brainer to build an air quality monitoring system, as
@@ -9,6 +10,7 @@ monitoring CO2 levels in a space is a great way to determine if the space is
 adequately ventilated. Good ventilation is key in the fight against COVID, and
 my project is instrumental in pushing the cause to improve ventilation in indoor
 spaces.
+
 
 ## Context
 Air quality monitors (CO2 Sensors) are commonly used to determine the
@@ -19,30 +21,46 @@ better airflow. My project focuses on displaying real time CO2 levels in differe
 ways, and to allow the user to manipulate the airflow in a setting, so that
 insufficiently ventilated spaces can have their airflow improved.
 
+
 ## Technical Requirements / Specifications
 ● Acquire real-time CO2 levels in ppm and TVOC (Total Volatile Organic
 Compounds) levels in ppb from VOC and eCO2 Gas Sensor (SGP30)
+
 ● Acquire real-time temperature and relative humidity data from
 Temp/Humidity sensor (DHT11)
+
 ● Print real-time CO2 level, TVOC level, temp and humidity to OLED
 display (SSD1315)
+
 ● Send real-time CO2 levels over serial port interface, so Java can be
 utilised
+
 ● Plot real-time CO2 levels using JavaFX library
+
 ● Allow user to turn on Fan (DC Motor)/future accompanying ventilation
 system through JavaFX GUI, and turn on LED and sound buzzer while
 fan is running
 
+
 ## Components List
+
 ● Seeedstudio Grove Arduino UNO compatible board (1x)
+
 ● Grove OLED Display 0.96 inch - SGP1315 (1x)
+
 ● Grove VOC and eCO2 Gas Sensor (Air Quality Sensor) - SGP30 (1x)
+
 ● Grove Temperature and Humidity Sensor - DHT11 (1x)
+
 ● LED (1x)
+
 ● Buzzer (1x)
+
 ● DC Motor (1x)
+
 ● DC Motor Driver Components (1x PN2222 Transistor, 1x 1N4001 diode, 1x
 270 Ohm Resistor, 1x Breadboard)
+
 
 ![Diagram of the system and its associated components](https://i.imgur.com/sbXL8zU.png)
 
