@@ -1,4 +1,5 @@
 # Air Quality Monitor
+Air Quality Monitor utilizing Java and an Arduino (jSerialComm)
 
 ### YouTube Video Link : https://www.youtube.com/watch?v=Uq2lYNdrcdU
 
