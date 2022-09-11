@@ -45,7 +45,9 @@ fan is running
 270 Ohm Resistor, 1x Breadboard)
 
 ![Diagram of the system and its associated components](https://i.imgur.com/sbXL8zU.png)
+
 Diagram of the system and its associated components
+
 
 ## Procedure
 Coming into this project, my idea was to display CO2 values on the Grove
@@ -81,9 +83,11 @@ to brainstorming.
 
 Surely this’ll work....
 
+
 ![Nope. Nevermind. Not happening.](https://i.imgur.com/EQhbRum.png)
 
 Nope. Nevermind. Not happening.
+
 
 At this point, I already invested so much time into this idea, so I really wanted to
 follow through with it. I decided to create a custom Arduino program, and use
@@ -119,10 +123,12 @@ well ventilated my room was with the HVAC system turned off, and, well,
 
 ![CO2 Levels.](https://i.imgur.com/dQqaBsa.png)
 
+
 I hope that YorkU is doing a better job with ventilation than my current setup. :)
 I also tested the JavaFX chart and table with the same testing methodology:
 
 ![CO2 Levels.](https://i.imgur.com/N8X67P7.png)
+
 
 As you can see, this is working as desired. The turn fan on/off buttons also
 work just fine, as I will demonstrate in the video.
