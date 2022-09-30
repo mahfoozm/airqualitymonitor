@@ -144,6 +144,7 @@ well ventilated my room was with the HVAC system turned off, and, well,
 
 
 I hope that YorkU is doing a better job with ventilation than my current setup. :)
+
 I also tested the JavaFX chart and table with the same testing methodology:
 
 ![CO2 Levels.](https://i.imgur.com/N8X67P7.png)
